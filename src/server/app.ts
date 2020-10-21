@@ -1,6 +1,5 @@
 import express from 'express'
 import path from 'path'
-import config from 'config'
 
 const port = 8080
 const app = express()
